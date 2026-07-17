@@ -6,14 +6,14 @@ My experience in the aviation industry has strengthened my analytical thinking, 
 
 ## Technical Skills
 
-### Data Analysis
-- Microsoft Excel (Advanced)
-- Power Query
-- Pivot Tables
-- Power Pivot
-- Data Cleaning
-- Data Validation
-- Data Visualization
+## 🛠 Tech Stack
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Business Intelligence
 - Power BI
